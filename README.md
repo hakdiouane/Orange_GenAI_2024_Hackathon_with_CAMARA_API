@@ -1,4 +1,4 @@
-# AI Vocal Assistant for Delivery
+# AI Vocal Agent for Delivery
 
 This project implements an AI-powered vocal assistant that helps delivery personnel manage key tasks using the Orange Telecommunications services - CAMARA API. The assistant leverages voice interaction, OpenAI's GPT-4-turbo model for natural language understanding, and several API integrations to streamline delivery operations.
 
